@@ -1,11 +1,19 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg)] -->
 <h1 align="center">Hi 👋, I'm Subhajit Dey</h1>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">A fullstack developer from NIT Durgapur</h3>
-<!-- <img align="right" width="400" src="https://wallpaperaccess.com/cool-code"> -->
 
-<!-- <p align="left"> <img src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg" alt="subhajit098" /> </p> -->
+ <div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
 
-- 🌱 I’m currently learning **React.js**
+ <p align="center"> <img src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg" alt="subhajit098" /> </p> 
+
+- 🌱 I’m currently exploring **React.js**,**React Native** and **BlockChain**
 
 - 💬 Ask me about **Frontend and Backend**
 
@@ -25,6 +33,8 @@
   <tr>
 <td><div>
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit098&show_icons=true&locale=en&layout=compact" alt="subhajit098" />
+
+  
   </div></td>
   
 <td><div display="inline-block" align="right"><p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=subhajit098&show_icons=true&locale=en" alt="subhajit098" /></p></div></td>
@@ -32,3 +42,8 @@
 </table>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit098&" alt="subhajit098" /></div>
+
+<hr>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
