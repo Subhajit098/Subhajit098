@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://i.pinimg.com/originals/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg)] -->
 <h1 align="center">Hi 👋, I'm Subhajit Dey</h1>
-<h3 align="center">A passionate enthusiastic fullstack developer from India</h3>
+<h3 align="center">A fullstack developer from NIT Durgapur</h3>
 <!-- <img align="right" width="400" src="https://wallpaperaccess.com/cool-code"> -->
 
 <!-- <p align="left"> <img src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg" alt="subhajit098" /> </p> -->
