@@ -6,10 +6,6 @@
 
 <h3 align="center">A fullstack developer from NIT Durgapur</h3>
 
- <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
-</div>
 
  <p align="center"> <img src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg" alt="subhajit098" /> </p> 
 
